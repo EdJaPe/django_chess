@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+env/
+*.env/
+*.venv/
+
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+#.DS_store
+*.DS_Store
